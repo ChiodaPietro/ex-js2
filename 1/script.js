@@ -1,0 +1,1 @@
+console.log(([1,2,3,4,5,].filter((a)=>a%2==0)).reduce((a,b)=>a+b));
